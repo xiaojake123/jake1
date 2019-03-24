@@ -1,0 +1,21 @@
+<!--pages/iii/hello.wxml-->
+<!--<view class="page">
+  <view class="page_hd">
+    <text class="page_title">image</text>
+    <text class="page_desc">javajava.png</text>
+  </view>
+
+  <view class="page_bd">
+    <view class="sectiion_gap" wx:for="{{array}}" wx:for-item="item">
+      <view class="section_title">{{item.text}}</view>
+      <view class="section_ctn">
+
+        <image style="width:200px;height: 200px; background-color: #eeeeee;" mode="{{item.mode}}" src="{{src}}"></image>
+
+      </view>
+      
+    </view>
+  </view>
+</view>-->
+<view style="text-align:center">{{title}}</view>
+<view>12345</view>
